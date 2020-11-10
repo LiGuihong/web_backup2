@@ -43,10 +43,10 @@ title: SPAN
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: stoker
+  name: Guihong Li
 #  email: "youremail@domain.com"
 #  facebook: yourname  # eg. daattali
-  github: ProjectSPAN    # eg. daattali
+#  github: ProjectSPAN    # eg. daattali
 #  twitter: yourname   # eg. daattali
 #  reddit: yourname    # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
